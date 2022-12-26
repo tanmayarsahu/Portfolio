@@ -13,7 +13,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Header 1
 
 Fraud_Detection
-This on Machine Learning.
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorised financial activity. This may include fraudulent credit card transactions, identity theft, cyber hacking, insurance scams and more.
+
 
 ## Header 2
 
